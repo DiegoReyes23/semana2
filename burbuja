@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Persona Burbuja</title>
+</head>		
+	<style>
+		.text {
+			text-align: center;
+		}
+		
+		</style>
+<body>
+	<h1 class= "text">Persona Burbuja</h1>
+	<ul align="justify">Datos demográficos:
+		<li>Foto de burbuja <img src="https://vignette.wikia.nocookie.net/superpoderosa/images/5/52/Burbuja.png/revision/latest/scale-to-width-down/340?cb=20160218225605&path-prefix=es"/></li>
+		<li>Es una niña que tiene superpoderes</li>
+		<li>Tiene tres hermanas</li>
+		<li>Problemática: Su objetivo es salvar al mundo de sus enemigos junto a sus hermanas. Es una persona muy positiva por lo que le gusta compartir eso con los demás </li>
+		<li>Frustación: Le frsutan las cosas tristes</li>
+		<li>Experiencia: Profesional en salvar personas indenfensas</li></ul>
+</body>
+</html>
